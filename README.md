@@ -1,0 +1,2 @@
+# redux-note
+redux note
