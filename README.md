@@ -182,7 +182,7 @@ const fetchTodos = () => {
 [applyMiddleware.js](https://github.com/reactjs/redux/blob/master/src/applyMiddleware.js)
 
 ```js
-  ({ dispatch, getState }) => next => action
+({ dispatch, getState }) => next => action
 ```
 
 ```js
